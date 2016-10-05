@@ -1,0 +1,6 @@
+#!/bin/sh
+a_func () {
+   echo $1
+}
+
+a_func
